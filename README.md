@@ -2,6 +2,8 @@
 This project is just to start learning React, it is based on the main React tutorial currently on their website.
 I'm not currently sure if I will expand on this project beyond what they have done.
 
+Marking this repo as *dead* for now, not much else I want to do with it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
